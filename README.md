@@ -4,6 +4,8 @@ This application is a Streamlit web app dashboard that can be used to analyze mo
 
 The dashboard is completely interactive and includes 
 - A 2D map visualization using the longtittude and latitude included in the raw data
+- st.slider() implemented to let you filter collisions visualized by how many people injured
+- st.selectbox() implemented to let you filter collisions visualized by who was visualized (Cyclists, Motorists, Pedestrian) 
 - A 3D map integration using Uber's open source deck.gl frame work 
 - A plotly express histogram to visualize collisions from NYC in 2020 by minute in the hour chosen.
 
@@ -16,4 +18,4 @@ Imports include
 # In Progress 
 I will try to host this app with Heroku to have the web app available from the cloud 
 ## Today's Progress
-- Day 1 (09/20/22): Installed Heroku after building this web app looking how I will implement Heroku still reading documentation 
+- Day 1 (09/19/22): Installed Heroku after building this web app locally, looking how I will implement Heroku to have it available for everyone to click in, still reading documentation 
