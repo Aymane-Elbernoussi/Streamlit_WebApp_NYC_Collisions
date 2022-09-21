@@ -1,5 +1,5 @@
 # Streamlit_WebApp_NYC_Collisions
-This application is a Streamlit web app dashboard that can be used to analyze motor vehicle collisions in NYC. 
+This application is a Streamlit web app dashboard that can be used to analyze motor vehicle collisions in NYC. Data is from https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95 (2020)
 
 
 The dashboard is completely interactive and includes 
