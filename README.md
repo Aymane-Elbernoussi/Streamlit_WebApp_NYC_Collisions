@@ -14,8 +14,3 @@ Imports include
 - Pandas
 - deck.gl
 - plotly express
-
-# In Progress 
-I will try to host this app with Heroku to have the web app available from the cloud 
-## Today's Progress
-- Day 1: Installed Heroku after building this web app locally, looking how I will implement Heroku to have it available for everyone to click in, still reading documentation 
